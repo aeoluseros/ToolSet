@@ -11,4 +11,7 @@
 - C# via CLR
 
 
+## Key libraries
+- MScorEE.dll
+
 
