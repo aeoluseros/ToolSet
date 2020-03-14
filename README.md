@@ -14,4 +14,8 @@
 ## Key libraries
 - MScorEE.dll
 
+## Some Keywords
+- CTS: Common Type System
+- CLS: Common Language Specification
+
 
