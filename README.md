@@ -7,7 +7,7 @@
 
 
 ## Books
-- .NET IL Assembler
+- .NET IL Assembler (Lidin, Serge, 2014)
 - C# via CLR
 
 
